@@ -1,0 +1,3 @@
+rootProject.name = 'RND'
+
+include ':app'
