@@ -14,7 +14,7 @@
     "@react-native-community/async-storage": "^1.5.1",
     "autobind-decorator": "^2.4.0",
     "gravatar": "^1.8.0",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^10.4.1",
     "marked": "0.6.3",
     "mobx": "^5.13.0",
     "mobx-react": "^5.4.3",
